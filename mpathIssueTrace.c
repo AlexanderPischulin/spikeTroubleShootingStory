@@ -3,7 +3,7 @@
 Струкура dm-multipath устройства, с мажнорным и минорным номеромм устройств
 dm-multipath усройство dm-7 имеет можнорный номер 253, минорный 7 (253:7)
 
-R2D2_ssd_pool0_res3 (3614529010a5400a44000800000000004) dm-7 YADRO,TATLIN
+R2D2_ssd_pool0_res3 (000000000000000000000000000000000) dm-7 
 size=512G features='1 queue_if_no_path' hwhandler='1 alua' wp=rw
 `-+- policy='service-time 0' prio=50 status=active
   |- 14:0:0:4  sdh  8:112  active ready running
